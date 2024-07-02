@@ -6,7 +6,7 @@ A MediBot seeks to provide instant, personalized healthcare assistance and infor
 
 ### Demo
 
-![demo](https://github.com/Sakal05/medibot/adsjl341klkdklfslk23cvb.png)
+![demo](https://github.com/Sakal05/medibot/blob/7f5c7694704276ce8abe9fb02109c1fde7cee1cb/adsjl341klkdklfslk23cvb.png)
 
 ## Features
 
